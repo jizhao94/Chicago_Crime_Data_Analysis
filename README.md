@@ -2,4 +2,4 @@
 
 Machine Learning for Public Policy Homework #1
 
-Please refer to Desktop/ML HW1/Data_Analysis_on_Chicago_Crime.ipynb
+Please refer to Desktop/MLHW1/Data_Analysis_on_Chicago_Crime.ipynb
